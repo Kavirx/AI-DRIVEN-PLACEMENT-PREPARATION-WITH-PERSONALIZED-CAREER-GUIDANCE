@@ -112,7 +112,7 @@ Readiness          = (ResumeUploaded + ATS + CareerGuidance + AptitudeAccuracy) 
 
 ## Screenshots
 
-Add images to `docs/screenshots/` and reference them here:
+Add images to `screenshots/` and reference them here:
 
 | Login | Dashboard |
 |---|---|
