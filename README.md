@@ -116,7 +116,7 @@ Add images to `screenshots/` and reference them here:
 | Login | Dashboard |
 |---|---|
 | <img width="1535" height="710" alt="Login" src="https://github.com/user-attachments/assets/b4dc655f-b2cd-44bb-8658-6782ff398843" />
- | <img width="1591" height="758" alt="Dashboard" src="https://github.com/user-attachments/assets/70c97b66-08c0-4af7-8a8e-3c7788d1e739" />
+| <img width="1591" height="758" alt="Dashboard" src="https://github.com/user-attachments/assets/70c97b66-08c0-4af7-8a8e-3c7788d1e739" />
  |
 | **ATS Analysis** | **Job Matching** |
 | <img width="1591" height="763" alt="ATS Analysis" src="https://github.com/user-attachments/assets/0405f324-ad84-4424-8fce-e607e4e2633d" />
