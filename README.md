@@ -26,7 +26,6 @@ React (Vite)  ──REST/JWT──▶  Spring Boot  ──HTTP──▶  FastAPI
                                   └──▶ Adzuna API, Brevo e-mail, Google OAuth
 ```
 
-See [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) for details.
 
 ## Tech Stack
 
@@ -116,14 +115,15 @@ Add images to `screenshots/` and reference them here:
 
 | Login | Dashboard |
 |---|---|
-| ![Login](docs/screenshots/login.png) | ![Dashboard](docs/screenshots/dashboard.png) |
+| ![Login](<img width="1535" height="710" alt="Login" src="https://github.com/user-attachments/assets/b4dc655f-b2cd-44bb-8658-6782ff398843" />
+) | ![Dashboard](docs/screenshots/dashboard.png) |
 | **ATS Analysis** | **Job Matching** |
 | ![ATS](docs/screenshots/ats.png) | ![Jobs](docs/screenshots/job-matching.png) |
 
 ## Documentation
 
-- 📄 [Project Report](/Project_Report.pdf)
-- 📊 [Presentation](/Project_Presentation.pptx)
+- 📄 [Project Report]
+- 📊 [Presentation]
 
 ## Limitations
 
