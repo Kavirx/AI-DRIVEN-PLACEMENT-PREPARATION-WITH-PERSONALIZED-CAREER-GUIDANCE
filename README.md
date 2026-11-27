@@ -122,8 +122,8 @@ Add images to `screenshots/` and reference them here:
 
 ## Documentation
 
-- 📄 [Project Report](docs/Project_Report.pdf)
-- 📊 [Presentation](docs/Project_Presentation.pptx)
+- 📄 [Project Report](/Project_Report.pdf)
+- 📊 [Presentation](/Project_Presentation.pptx)
 
 ## Limitations
 
